@@ -1,0 +1,6 @@
+.idea/
+photos/
+
+# Experimental files in directory.
+one.py
+overlay.py
